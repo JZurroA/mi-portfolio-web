@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #cbdff7;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+}
